@@ -1,9 +1,10 @@
 <h1 align="center"> 🌌 Welcome to my profile 🌌 </h1>
+
 ![Banner Image](assets/profile-banner.png)
 
 # 🪐 Some Info
 - 🌎 Languages I speak: Portuguese, English, French
-- 🪪 [My LinkedIn] (https://www.linkedin.com/in/beatriz-almeida-09678b2b6/)
+- 🪪 [My LinkedIn](https://www.linkedin.com/in/beatriz-almeida-09678b2b6/)
 
 # 🪐 Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
