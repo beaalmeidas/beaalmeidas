@@ -4,7 +4,9 @@
 
 # 🪐 Some Info
 - 🌎 Languages I speak: Portuguese, English, French
-- 🪪 [My LinkedIn](https://www.linkedin.com/in/beatriz-almeida-09678b2b6/)
+- 🪪 My LinkedIn: [Go There](https://www.linkedin.com/in/beatriz-almeida-09678b2b6/)
+<br />
+<br />
 
 # 🪐 Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -27,6 +29,6 @@
 <br />
 
 # 🪐 Stats
-[![Beatriz Almeida's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beaalmeidas&theme=midnight-purple&show_icons=true&layout=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Beatriz Almeida's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beaalmeidas&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Beatriz Almeida's GitHub stats](https://github-readme-stats.vercel.app/api?username=beaalmeidas&theme=midnight-purple&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 [![Beatriz Almeida's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=beaalmeidas&theme=midnight-purple)](https://git.io/streak-stats)
