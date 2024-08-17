@@ -1,4 +1,4 @@
-![Banner Image](assets\profile-banner.png)
+![Banner Image](assets/profile-banner.png)
 
 ### 📊 Stats
 
