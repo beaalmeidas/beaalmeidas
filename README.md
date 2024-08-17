@@ -29,6 +29,7 @@
 
 # 🪐 Stats
 <div align="center">
+  
   [![Beatriz Almeida's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beaalmeidas&theme=midnight-purple&show_icons=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
   ![Beatriz Almeida's GitHub stats](https://github-readme-stats.vercel.app/api?username=beaalmeidas&theme=midnight-purple&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
