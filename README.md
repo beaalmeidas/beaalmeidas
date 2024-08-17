@@ -1,5 +1,6 @@
-## Hi there 👋
-
+![Banner Image](assets\profile-banner.png)
 
 ### 📊 Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beaalmeidas)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📊 Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=midnight-purple&show_icons=true)
