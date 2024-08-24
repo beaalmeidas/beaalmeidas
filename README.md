@@ -3,14 +3,17 @@
 ![Banner Image](assets/profile-banner.png)
 
 ## 🪐 Some Info
+- 🔭 **Back-end developer**
+- 💻 **Current interest:** Vector databases + AI + IoT
+- 📍 **Location:** João Pessoa, Paraíba, Brasil.
 - 🌎 **Languages I speak:** Portuguese, English, French
 - 📋 **Professional experience:**
     - Back-end developer at [Fábrica de Software](https://www.linkedin.com/company/f%C3%A1brica-de-software-unipe/mycompany/)
-    - Intern at [Compass UOL](https://compass.uol/en/home/)
+    - Scholarship holder at [Compass UOL](https://compass.uol/en/home/)
 - 🪪 **My LinkedIn:** [Go There](https://www.linkedin.com/in/beatriz-almeida-09678b2b6/)
 <br />
 
-## 🪐 Languages and Tools
+## 🪐 Some Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
