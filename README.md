@@ -4,6 +4,7 @@
 
 ## 🪐 Some Info
 - 🔭 **Back-end developer and aspiring Data Scientist**
+- ☁️ **AWS Certified Cloud Practitioner**
 - 💻 **Main interest:** Vector databases + Machine Learning + IoT
 - 📍 **Location:** João Pessoa, Paraíba, Brasil.
 - 🌎 **Languages:** Portuguese, English
