@@ -3,13 +3,14 @@
 ![Banner Image](assets/profile-banner.png)
 
 ## 🪐 Some Info
-- 🔭 **Back-end developer**
-- 💻 **Current interest:** Vector databases + AI + IoT
+- 🔭 **Back-end developer and aspiring Data Scientist**
+- 💻 **Main interest:** Vector databases + Machine Learning + IoT
 - 📍 **Location:** João Pessoa, Paraíba, Brasil.
-- 🌎 **Languages I speak:** Portuguese, English, French
+- 🌎 **Languages:** Portuguese, English
 - 📋 **Professional experience:**
     - Back-end developer at [Fábrica de Software](https://www.linkedin.com/company/f%C3%A1brica-de-software-unipe/mycompany/)
     - Scholarship holder at [Compass UOL](https://compass.uol/en/home/)
+    - Back-end developer at [Grupo DN / Construtora Topserv](https://www.instagram.com/topservengenharia/)
 - 🪪 **My LinkedIn:** [Go There](https://www.linkedin.com/in/beatriz-almeida-09678b2b6/)
 <br />
 
