@@ -1,50 +1,51 @@
-<h1 align="center"> 🌌 Welcome to my profile 🌌 </h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=7E76F7&vCenter=true&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" /></a>
 
-![Banner Image](assets/profile-banner.png)
+---
 
-## 🪐 Some Info
-- 🔭 **Back-end developer and aspiring Data Scientist**
-- ☁️ **AWS Certified Cloud Practitioner**
-- 💻 **Main interest:** Vector databases + Machine Learning + IoT
-- 📍 **Location:** João Pessoa, Paraíba, Brasil.
-- 🌎 **Languages:** Portuguese, English
-- 📋 **Professional experience:**
-    - Back-end developer at [Fábrica de Software](https://www.linkedin.com/company/f%C3%A1brica-de-software-unipe/mycompany/)
-    - Scholarship holder at [Compass UOL](https://compass.uol/en/home/)
-    - Back-end developer at [Grupo DN / Construtora Topserv](https://www.instagram.com/topservengenharia/)
-- 🪪 **My LinkedIn:** [Go There](https://www.linkedin.com/in/beatriz-almeida-09678b2b6/)
+````bash
+> help --info
+> 💻 Occupation: Fullstack dev, Data scientist, Team leader and researcher @ TAIL-UFPB
+> ☁️ AWS Certified Cloud Practitioner
+> 📍 Location: Brasil
+> 🌎 Languages: Portuguese, English, French
+> 📥 Contact: beatrizalmeidabss@gmail.com
+> 🪪 LinkedIn: linkedin.com/in/beatriz-almeida-09678b2b6
+````
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 <br />
 
-## 🪐 Some Languages and Tools
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
-<br />
-<br />
 
-## 🪐 Stats
+<h2>My stats</h2>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beaalmeidas&theme=tokyonight"
+    width="100%"
+  />
+</p>
+
 <div align="center">
-  
-  
-<div align="center">
-  
-  | [![Beatriz Almeida's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beaalmeidas&theme=midnight-purple&show_icons=true&langs_count=5&layout=donut)](https://github.com/anuraghazra/github-readme-stats) | ![Beatriz Almeida's GitHub stats](https://github-readme-stats.vercel.app/api?username=beaalmeidas&theme=midnight-purple&show_icons=true&) |
-  |:--:|:--:|
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=beaalmeidas&theme=tokyonight"
+    width="49%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=beaalmeidas&theme=tokyonight&timeZone=America/Fortaleza"
+    width="49%"
+  />
+</div>
 
-  [![Beatriz Almeida's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=beaalmeidas&theme=midnight-purple)](https://git.io/streak-stats)
-  
+<div align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=beaalmeidas&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"
+    width="49%"
+  />
+</div>
+
+
+---
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=beaalmeidas.beaalmeidas&left_color=purple&right_color=mediumpurple&left_text=Profile%20viewer%20count"  />
 </div>
